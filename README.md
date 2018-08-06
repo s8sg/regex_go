@@ -2,7 +2,7 @@
 [![OpenFaaS](https://img.shields.io/badge/openfaas-serverless-blue.svg)](https://www.openfaas.com)
     
 This is build as a dummy app to check openfaas-cloud and Status integration with openfaas deployed at: 
-`74e23734.ngrok.io` and can be reached at `74e23734.ngrok.io/function/s8sg-regex_go` and `74e23734.ngrok.io/function/s8sg-regex_py`
+`https://6803677a.ngrok.io` and can be reached at `https://6803677a.ngrok.io/function/s8sg-regex_go` and `https://6803677a.ngrok.io/function/s8sg-regex_py`
 
 
     
