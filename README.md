@@ -5,6 +5,8 @@ This is build as a dummy app to check openfaas-cloud and Status integration with
 `https://6803677a.ngrok.io` and can be reached at `https://6803677a.ngrok.io/function/s8sg-regex_go` and `https://6803677a.ngrok.io/function/s8sg-regex_py`
 
 
+
+
     
 **Example:**
 ```
