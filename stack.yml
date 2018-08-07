@@ -10,5 +10,5 @@ functions:
 
   regex_py:
     lang: python
-    handler: ./regex_py_invalid
+    handler: ./regex_py
     image: s8sg/regex_py
